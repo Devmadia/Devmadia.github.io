@@ -1,16 +1,24 @@
-import React from 'react';
+import React, { Component } from 'react';
+import Header from './components/Header';
 import About from './components/About';
-import Nav from './components/Nav';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
+import ContactUs from './components/Contact';
+import Footer from './components/Footer';
 
-function App() {
-  return (
-    <div>
-      <Nav></Nav>
-      <main>
-        <About></About>
-      </main>
-    </div>
-  );
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Header />
+        <About />
+        <Resume />
+        <Portfolio />
+        <ContactUs />
+        <Footer />
+      </div>
+    );
+  }
 }
-
 export default App;
