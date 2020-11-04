@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Header extends Component {
-    render() {
+function Header() {
         return (
             <header id="home">
                 <nav id="nav-wrap">
@@ -25,11 +24,10 @@ class Header extends Component {
                     </div>
                 </div>
                 <p className="scrolldown">
-                    <a className="smoothscroll" href="#about"><i class="fa fa-chevron-circle-down"></i></a>
+                    <a className="smoothscroll" href="#about"><i className="fa fa-chevron-circle-down"></i></a>
                 </p>
             </header>
         );
-    }
 }
 
 export default Header;

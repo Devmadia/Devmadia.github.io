@@ -7,8 +7,7 @@ import ContactUs from './components/Contact';
 import Footer from './components/Footer';
 
 
-class App extends Component {
-  render() {
+ function App() {
     return (
       <div className="App">
         <Header />
@@ -19,6 +18,6 @@ class App extends Component {
         <Footer />
       </div>
     );
-  }
 }
+
 export default App;
