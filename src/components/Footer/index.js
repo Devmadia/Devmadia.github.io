@@ -5,7 +5,7 @@ class Footer extends Component {
         return (
             <footer>
                 <div className="row">
-                <div className="three columns">
+                <div className="twelve columns">
                     <ul className="socstyle">
                     <li><a href="#"><i className="fa fa-linkedin" /></a></li>
                     <li><a href="#"><i class="fab fa-github"></i></a></li> DEFAULT FOR ICONS
