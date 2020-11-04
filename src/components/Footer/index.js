@@ -8,14 +8,14 @@ class Footer extends Component {
                 <div className="twelve columns">
                     <ul className="socstyle">
                     <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                    <li><a href="#"><i class="fab fa-github"></i></a></li> DEFAULT FOR ICONS
+                    <li><a href="https://github.com/Devmadia"><i class="fa fa-github-square"></i></a></li>
                     </ul>
                     <ul className="copyright">
                     <li><i class="far fa-copyright"></i> 2020 Devmadia </li>
                      
                     </ul>
                 </div>
-                <div id="go-top"><a className="smoothscroll" title="Take Me Home" href="#home"><i class="fas fa-broom"></i></a></div>
+                <div id="go-top"><a className="smoothscroll" title="Take Me Home" href="#home"><i class="fa fa-chevron-circle-up"></i></a></div>
                 </div>
             </footer>
         );

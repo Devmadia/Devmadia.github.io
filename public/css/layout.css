@@ -870,6 +870,11 @@ call-to-action .button {
 	color: #0D0D0D;
 	background: #fff;
 }
+#contact img.contact-load {
+      width:  50px;
+      height: 50px;
+      object-fit: cover;
+}
 #contact span.required {
 	color: #11ABB0;
 	font-size: 13px;
@@ -934,25 +939,30 @@ footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
+   font-family: 'FontAwesome';
     margin: 0;
     padding: 0;
  }
 footer .copyright li {
+    font-family: 'FontAwesome';
     display: inline-block;
     margin: 0;
     padding: 0;
     line-height: 24px;
 }
 .ie footer .copyright li {
+   font-family: 'FontAwesome';
    display: inline;
 }
 footer .copyright li:before {
+   font-family: 'FontAwesome';
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
     color: #095153;
 }
 footer .copyright  li:first-child:before {
+   font-family: 'FontAwesome';
     display: none;
 }
 
