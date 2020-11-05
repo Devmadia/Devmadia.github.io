@@ -9,16 +9,19 @@ function About() {
                 </div>
                 <div className="nine columns main-col">
                     <h2>About Me</h2>
-                    <p>Frightened people. Give me a Dalek any day. I never know why. I only know who. Thank you, Strax. 
-                        And if I'm ever in need of advice from a psychotic potato dwarf, you'll certainly be the first to know. 
-                        Usually called 'The Doctor.' Or 'The Caretaker.' Or 'Get off this planet.' Though, strictly speaking, 
-                        that probably isn't a name. There are fixed points throughout time where things must stay exactly the 
-                        way they are. This is not one of them. This is an opportunity! Whatever happens here will create its 
-                        own timeline, its own reality, a temporal tipping point. The future revolves around you, here, now, so do good!
+                    <p>As a bit of a recluse, I prefer to go by the handle <span>Devmadia</span> for a variety of reasons. After all, <span>"a rose by any
+                        other name would smell as sweet"</span> per William Shakespeare's famous line in <i>Romeo and Juliet</i>.
+
+                        <br />My strong sense of empathy permits me to engage with others in a way that promotes team synergy. A useful trait in professional 
+                        environments since my flexible nature enables me to swap roles as needed. 
+
+                        <br />I recently completed a six month course for a certification in <span>full stack web development</span> through the University of Texas at Austin
+                        though I also hold a bachelor's in <span>English</span> with a minor in <span>Journalism</span> from Texas A&M University -- Corpus Christi.
+
                     </p>
                     <div className="row">
                     <div className="columns contact-details">
-                        <h2>Reach Me </h2>
+                        <h2>Details</h2>
                         <p className="address">
                         <span>Devmadia</span><br />
                         <span>(918) 324-6891</span><br />

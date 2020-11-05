@@ -18,8 +18,9 @@ function Header() {
                     <div className="banner-text">
                     <h1 className="responsive-headline">I'm Devmadia.</h1>
                     <hr />
-                    <h3>A full stack <span>web developer</span>, <span>writer</span> and <span>gamer</span> with a love of cultivating carnivorous plants. Feel free to <a className="smoothscroll" href="#about">explore </a>
-                        a bit and learn <a className="smoothscroll" href="#about">about me</a> as you go!</h3>
+                    <h3>A full stack <span>web developer</span>, <span>writer</span> and <span>gamer</span> with a love of cultivating carnivorous plants. 
+                        Feel free to <a className="smoothscroll" href="#portfolio">explore </a> a bit and learn <a className="smoothscroll" href="#about">about
+                         me</a> as you go!</h3>
                     <hr />
                     </div>
                 </div>

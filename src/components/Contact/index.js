@@ -44,13 +44,12 @@ function Contact() {
                             <h1><span>Get In Touch</span></h1>
                         </div>
                         <div className="ten columns">
-                            <p className="lead">New-new-Doctor. It is! It's the city of New New York! Strictly speaking, it's the fifteenth 
-                            New York since the original, so that makes it New-New-New-New-New-New-New-New-New-New-New-New-New-New-New New 
-                            York. What? What?! WHAT?! I'd call you a genius, except I'm in the room. River, you know my name. You whispered 
-                            my name in my ear! There's only one reason I would ever tell anyone my name. There's only one time I could... Aw, 
-                            I wanted to be ginger! I've never been ginger! And you, Rose Tyler! Fat lot of good you were! You gave up on me! 
-                            Ooh, that's rude. Is that the sort of man I am now? Am I rude? Rude and not ginger.
-                            </p>
+                            <p className="lead">Like a seldom seen Pokémon, Devmadia prefers to correspond through email or text messaging rather than meet
+                            in person, which is why COVID-19 quarantine life hasn't quite affected her too much. Think back to when <i>The Net</i> was all the 
+                            "rage" as Sandra Bullock endeared audiences with her role as a secluded web developer focused on taking care of her mother. 
+                            Here the two are not unalike. 
+                            <br />
+                            Although now there's the added bonus to remote work with Zoom and Skype!</p>
                         </div>
                     </div>
 
@@ -108,7 +107,7 @@ function Contact() {
 
                         <aside className="four columns footer-widgets">
                             <div className="widget widget_contact">
-                            <h4>Address and Phone</h4>
+                            <h4>Contact</h4>
                             <p className="address">
                                 Devmadia<br />
                                 Remote Availability <br />
