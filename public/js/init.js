@@ -112,7 +112,7 @@
 
     });
 
-    $(document).on('click', '.popup-modal-dismiss', function (e) {
+    $(document).on('click', '.open-modal-dismiss', function (e) {
     		e.preventDefault();
     		$.magnificPopup.close();
     });
