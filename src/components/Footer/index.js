@@ -7,7 +7,7 @@ class Footer extends Component {
                 <div className="row">
                 <div className="twelve columns">
                     <ul className="socstyle">
-                    <li><a href="#"><i className="fa fa-linkedin" /></a></li>
+                    <li><a href="https://bit.ly/32lRrqj"><i className="fa fa-linkedin" /></a></li>
                     <li><a href="https://github.com/Devmadia"><i className="fa fa-github-square"></i></a></li>
                     </ul>
                     <ul className="copyright">
