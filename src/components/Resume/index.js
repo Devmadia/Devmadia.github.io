@@ -24,7 +24,7 @@ function Resume() {
                                 <h3>Texas A&M University -- Corpus Christi</h3>
                                 <p className="info">B.A. English with minor concentration in Journalism <span>•</span> <em className="date">May 2010</em></p>
                                 <p>
-                                Though I hold a bachelor's in English, I also received three years of undergraduate Biology and Field Research education as well during
+                                Though I hold a bachelor's in English, I also received three years of undergraduate Biology and Field Research education during
                                 my time at the "Island University".
                                 </p>
                             </div>
@@ -63,7 +63,7 @@ function Resume() {
                 {/* </div> End Work */}
 
                 {/* Skills */}
-                    <div className="row skill">
+                    {/* <div className="row skill">
                         <div className="three columns header-col">
                             <h1><span>Skills</span></h1>
                         </div>
@@ -76,16 +76,14 @@ function Resume() {
                             
                             <div className="bars">
                                 <ul className="skills">
-                                    <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
-                                    <li><span className="bar-expand illustrator" /><em>Illustrator</em></li>
-                                    <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
-                                    <li><span className="bar-expand css" /><em>CSS</em></li>
-                                    <li><span className="bar-expand html5" /><em>HTML5</em></li>
-                                    <li><span className="bar-expand jquery" /><em>jQuery</em></li>
-                                </ul>
-                            </div>{/* end skill-bars */}
-                        </div> {/* main-col end */}
-                    </div> {/* End skills */}
+                                    <li><span className="bar-expand wordpress" /><em>HTML/CSS</em></li>
+                                    <li><span className="bar-expand css" /><em>Node</em></li>
+                                    <li><span className="bar-expand html5" /><em>Express</em></li>
+                                    <li><span className="bar-expand jquery" /><em>MySQL</em></li>
+                                </ul> */}
+                            {/* </div>end skill-bars */}
+                        {/* </div> main-col end */}
+                    {/* </div> End skills */}
             </section>
         );
 }

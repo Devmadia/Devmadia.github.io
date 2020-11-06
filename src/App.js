@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import About from './components/About';
-// import Resume from './components/Resume';
+import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import ContactUs from './components/Contact';
 import Footer from './components/Footer';
@@ -12,7 +12,7 @@ import Footer from './components/Footer';
       <div className="App">
         <Header />
         <About />
-        {/* <Resume /> */}
+        <Resume />
         <Portfolio />
         <ContactUs />
         <Footer />
