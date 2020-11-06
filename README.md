@@ -1,68 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Devmadia Portfolio
 
-## Available Scripts
+# Description
+A fully functional React portfolio with all of Devmadia's developer projects for showcasing purposes.
 
-In the project directory, you can run:
+![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
-### `npm start`
+## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
+Download a copy of this repo to a directory of your choice. To install, you will need to run `npm i` or `npm install` to get all the dependencies running. Following proper installation of the dependencies, you will type `npm start` on the root directory terminal to start the server.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+To stop the server you will need to use the existing terminal to execute `CTRL+C` followed by `Y` for confirmation to terminate the connection to localhost.
 
-### `npm test`
+Please see documentation on your own host's server commands should you run this on a live instance rather than locally.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+Be sure all repository files were successfully cloned to server and a connection to the database is complete.
 
-### `npm run build`
+Deployment: https://devmadia.github.io/
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Devmadia Demo Shot 2](src/assets/Devmadia002.png) 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Once the website is deployed, it will look like the above image.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Devmadia Demo Shot 1](src/assets/Devmadia001.png) 
 
-### `npm run eject`
+A demonstration of the viewport feature as appears above.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Header bar is fully navigatable and takes visitors to the appropriate locations. Resume is available for download.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
+![Github license](http://img.shields.io/badge/license-MIT-blue.svg) This project is covered by the MIT license.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contributing
+At this time, I am not seeking contributors to my portfolio.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Questions
+Please contact Devmadia by clicking below for immediate questions regarding site content:
 
-## Learn More
+[![Devmadia](src/assets/Logo.png)](https://devmadia.github.io/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+For other projects by Devmadia [click here](https://github.com/Devmadia)

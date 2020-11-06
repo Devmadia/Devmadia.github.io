@@ -30,7 +30,7 @@ function About() {
                     </div>
                     <div className="columns download">
                         <p>
-                        <a href="" className="button"><i className="fa fa-download" />Download Resume</a>
+                        <a href="https://devmadia.github.io/images/Devmadia.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                         </p>
                     </div>
                     </div> {/* end row */}
