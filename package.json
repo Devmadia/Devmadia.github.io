@@ -1,8 +1,8 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "http://devmadia.github.io/",
   "private": true,
+  "homepage": "http://devmadia.github.io/react-port",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@testing-library/jest-dom": "^4.2.4",
